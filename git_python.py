@@ -12,3 +12,7 @@ print(x,y)
 
 lnx - np.log(x)
 y = lnx
+
+
+########## third edition at github
+print(X)
