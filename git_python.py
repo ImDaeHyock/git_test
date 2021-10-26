@@ -7,10 +7,6 @@ print(x)
 y = np, exp(x)
 print(x,y)
 
-<<<<<<<<< HEAD
 ########## Edited at local 
-xx = x**2
-y = np.exp(xx)
-
-###################second edited at local 
-print(y)
+lnx = np.log(x)
+y = lnx
