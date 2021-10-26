@@ -6,3 +6,9 @@ print(x)
 ########### edited at github
 y = np, exp(x)
 print(x,y)
+
+
+############# second edited at github
+
+lnx - np.log(x)
+y = lnx
