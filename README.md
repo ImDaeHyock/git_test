@@ -5,5 +5,5 @@ this is for guthub test
 - Machine learning
 - Deep learning
 
-### comflict with branch_0
+### conflict with branch_0
 This is written for making trouble
