@@ -5,5 +5,8 @@ this is for guthub test
 - Machine learning
 - Deep learning
 
-### conflict with master
-This is wrriten for making big trouble
+
+### Resolved confliction
+1. ML
+2. DL
+3. DE
