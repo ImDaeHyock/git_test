@@ -5,5 +5,8 @@ this is for guthub test
 - Machine learning
 - Deep learning
 
-### conflict with branch_0
-This is written for making trouble
+
+### Resolved confliction
+1. ML
+2. DL
+3. DE
